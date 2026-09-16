@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-The **StockWise Retail Management System** is a command-line based Java application developed to manage the core operations of a small retail business.
+The **StockWise Retail Management System** is a command-line interfaced Java application developed to manage the core operations of a small retail business.
 
 The application provides functionality for managing products and inventory, generating customer bills, handling suppliers and purchases, and generating business reports and alerts.
 
