@@ -1,0 +1,4 @@
+# Copy this file to database.properties and update the password for your MySQL installation.
+db.url=jdbc:mysql://127.0.0.1:3306/stockwise
+db.user=root
+db.password=YOUR_MYSQL_PASSWORD
