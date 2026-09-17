@@ -205,6 +205,17 @@ Custom exceptions used in the project include:
 ## 5. System Architecture
 
 StockWise follows a layered architecture to separate user interaction, business logic, database operations, and data models.
+nstallation & Setup
+10.1 Environment Requirements
+## installation and setup 
+Install the following:
+
+JDK 21
+MySQL Server 8.0 or later
+Git
+MySQL Workbench (optional)
+Visual Studio Code (optional)
+
 
 ```text
                          StockWise
