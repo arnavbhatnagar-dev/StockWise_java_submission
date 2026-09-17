@@ -210,11 +210,11 @@ nstallation & Setup
 ## installation and setup 
 Install the following:
 
-JDK 21
-MySQL Server 8.0 or later
-Git
-MySQL Workbench (optional)
-Visual Studio Code (optional)
+-JDK 21
+-MySQL Server 8.0 or later
+-Git
+-MySQL Workbench (optional)
+-Visual Studio Code (optional)
 
 
 ```text
