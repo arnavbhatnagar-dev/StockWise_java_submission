@@ -1,4 +1,4 @@
-# StockWise - Retail Billing, Inventory & Management System using Java
+# StockWise - Retail Billing, Inventory & Management System programmed using  Java
 
 ## 1. Project Overview
 
